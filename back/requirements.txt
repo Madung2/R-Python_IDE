@@ -1,0 +1,5 @@
+# Need to install R and add environment variables
+
+fastapi
+uvicorn
+pymongo
